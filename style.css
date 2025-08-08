@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Cinzel+Decorative:wght@400;700&display=swap');
 
 * {
@@ -9,6 +10,7 @@
 .capa {
     width: 300px;
     border-radius: 5px;
+
 body {
     font-family: 'Crimson Text', serif;
     background-color: #1e1b18;
